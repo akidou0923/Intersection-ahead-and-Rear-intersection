@@ -1,2 +1,5 @@
 # Intersection-ahead-and-Rear-intersection
 基于matlab的前方交会与后方交会功能实现
+bc_qfjh为前方交会代码
+bc_hfjh为后方交会代码
+编程数据为演示代码使用的参数
